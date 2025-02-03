@@ -1,7 +1,7 @@
 ! Title: FalconXXX GeneralBlocking List
 ! Description: List for blocking ads and preventing user tracking
 ! Version: 1
-! Last modified: 2025-01.31 
+! Last modified: 2025.02.03
 
 ||.avast.com^
 ||vdmpmqtt.vesync.com^
